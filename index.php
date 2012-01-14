@@ -7,4 +7,6 @@
 
 // :-)
 
+echo 'hello';
+
 phpinfo();
