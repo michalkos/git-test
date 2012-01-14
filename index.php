@@ -5,4 +5,6 @@
 * @author Michal Kos
 */
 
+:-)
+
 phpinfo();
