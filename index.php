@@ -1,8 +1,8 @@
 <?php
 /**
-*	New PHP info file
-*	@author Michal Kos
-*	
+* New PHP info file
+* wtf
+* @author Michal Kos
 */
 
 phpinfo();
