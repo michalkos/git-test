@@ -5,6 +5,8 @@
 * @author Michal Kos
 */
 
+echo 'boo';
+
 // :-)
 
 phpinfo();
